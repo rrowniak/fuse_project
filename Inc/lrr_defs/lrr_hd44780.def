@@ -1,0 +1,13 @@
+#define LCD_CTRL_PORT LCD_E_GPIO_Port
+#define LCD_RS LCD_RS_Pin
+#define LCD_RW LCD_RW_Pin
+#define LCD_EN LCD_E_Pin
+
+#define LCD_DATA_PORT LCD_D4_GPIO_Port
+#define LCD_D4 LCD_D4_Pin
+#define LCD_D5 LCD_D5_Pin
+#define LCD_D6 LCD_D6_Pin
+#define LCD_D7 LCD_D7_Pin
+
+#define LCD_COL_COUNT 16
+#define LCD_ROW_COUNT 2
